@@ -1,6 +1,6 @@
 {
   "name": "eth-tweak-key",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tweak ethereum keys inspired by Bitcoin P2C",
   "main": "index.js",
   "publishConfig": {
