@@ -1,5 +1,7 @@
 # `eth-tweak-key`
 
+[![Build Status](https://travis-ci.com/hyperdivision/eth-tweak-key.svg?branch=master)](https://travis-ci.com/hyperdivision/eth-tweak-key)
+
 > Tweak ethereum keys inspired by Bitcoin P2C
 
 ## Usage
